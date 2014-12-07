@@ -1,0 +1,16 @@
+.s{
+	color: red;
+}
+.s1{
+	color: green;
+}
+body{
+	margin-top: 90px;
+}
+.jumbotron{
+	margin-top: 80px;
+	border-radius: 90px;
+}
+.carousel-caption{
+	text-align: center;
+}
