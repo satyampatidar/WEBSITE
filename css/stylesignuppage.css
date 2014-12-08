@@ -1,7 +1,26 @@
 .container{
 	vertical-align: right;
-	text-align: right;
+	text-align: center;
 }
+
 .form-signup-heading{
 	color: purple;
+}
+
+body{
+	margin-top: 90px;
+}
+
+.jumbotron{
+	border-radius: 80px;
+}
+
+.col-lg-3{
+	text-align: center;
+	border-color: purple;
+	color: green;
+}
+
+.clr{
+	color: blue;
 }
